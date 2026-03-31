@@ -1,89 +1,75 @@
 # 👋 Hi, I’m **Prof Rod** (@profrodai)
 
-I help developers build **real-world AI agents** ranging from customer support assistants to workflow automators, using structured engineering principles rather than prompt-only chaos.
+I am defining the discipline of **Sovereign Agent Architectures**. I teach technically brave operators how to build and run **always-on digital employees** on infrastructure they actually own.
 
-I focus on the rise of the **Agent Engineer** profession: architecture, patterns, processes, and enterprise-ready agent systems.
+I focus on the transition from demo-grade AI to the **Headless Company**: a business architecture where structured, repeatable operations are handled by persistent, credentialed, and auditable sovereign agents.
 
-Alongside this, I run the **AI Automators Club**, a community teaching AI Operators and automators how to build AI automation workflows for businesses, and lead the **Agent Engineering Community**.
-
----
+-----
 
 ## 🚀 What I’m Working On
 
-### 🦾 **Agent Engineering @ Rasa**
+### 🏛️ **Sovereign Agent Architectures**
 
-* Building educational material around the **CALM architecture**
-* Teaching the world using **Hello Rasa** and the upcoming **Agent Engineer Certification**
-* Creating technical examples, templates, and events for enterprise agents
+  * Codifying the standards for **persistent, scheduled, and credentialed** AI systems.
+  * Authoring the **Sovereign Agents Manifesto** and the **Pre-Flight Checklist** for production agents.
+  * Building the canonical home for operators at [sovereignagents.co](https://sovereignagents.co).
 
-### 🌐 **Agent Engineering Community**
+### 🦾 **Industrial AI Architecture @ Rasa**
 
-* International meetups in **London, Paris, SF, Berlin, Barcelona, and others**
-* Weekly discussions on architecture, orchestration, safety, and evals
-* Vendor-neutral community for agent builders (Rasa, LangGraph, Sierra, CrewAI, etc.)
+  * Leading Developer Relations and building educational material around the **CALM architecture**.
+  * Teaching enterprise-grade conversational AI through **Hello Rasa** and the **Agent Engineer Certification**.
 
-### 💼 **AI Automators Club**
+### 🦆 **DuckTyper & Open Source**
 
-* Teaching AI automators and operators how to build AI automation workflows
-* Frameworks, templates, and playbooks for lead-gen, pricing, and delivery
-* Weekly content and scorecards (Automation Index, Time Liberation Score, etc.)
+  * Developing a suite of open-source libraries that embody sovereign principles: local-first inference, scoped credentials, and episodic memory.
+  * `quackcore` - foundational infrastructure for agentic orchestration.
+  * `ducktyper` - CLI-first ecosystem for procedural AI learning.
 
-### 🦆 **DuckTyper & the QuackVerse** *(paused but returning soon)*
+### 🧪 **The Laboratory (profrod.ai)**
 
-* A CLI-first ecosystem for procedural learning in AI
-* `quackcore` for integrations, workflows, teaching mode
-* `ducktyper` as a unified CLI for QuackTools
+  * Translating complex architectural failure modes into **The Rod Protocols**—illustrated post-mortems for the modern operator.
+  * Documenting **Build Proof** and operational logs on [YouTube](https://youtube.com/@profrodai).
 
-### 🎭 **FSquared AI** *(long-term creative project)*
+-----
 
-* Experiments on faceless AI influencer pipelines
-* Storyboarding, character engines, and automated social content
-* Currently in early R&D mode
+## 🎓 Teaching & Research
 
----
+  * **Professor of the Practice in AI** at ITAM, bridging industrial ML research with academic rigour.
+  * Speaker and lecturer on **Architectural Failure Modes**, **Operational Leverage**, and the **New Industrial Revolution**.
+  * Publisher of **OpenClaw Daily**, the intelligence briefing for sovereign agent operators.
 
-## 🎓 Teaching & Content
+-----
 
-* Teaching Agent Engineering at ITAM
-* Host of **The Chris Rod Max Show** having conversations with early-stage AI founders
-* Writing essays and speaking at meetups and conferences about **agent engineering**, **evals**, and **AI automation**
-* Building the public persona of **Prof Rod** through edutainment, comics, and short-form reflections
+## 🛠️ Featured Repositories
 
----
+### 🏗️ **Active Frameworks**
 
-## 🛠️ Featured Projects (Active & Legacy)
+  * **DuckTyper** - Implementation of the Sovereign Agent stack.
+  * **QuackVerse Core** - Modular tooling for credentialed autonomy and agent state management.
 
-### 🔧 Active
+### 📜 **Protocols & Documentation**
 
-* **Agent Engineering @ Rasa**
-* **AI Automators Club**
+  * **The Sovereign Agents Manifesto** - Defining the discipline.
+  * **Agent Post-Mortems** - Technical logs of architectural edge cases.
 
-### 🦆 Legacy, to be revived
+-----
 
-* **quackcore** - shared infrastructure for agentic tooling
-* **ducktyper** -unified CLI for learning and running QuackTools
-* **quacktools/*` - modular tooling (QuackMetadata, QuackTokenScope, etc.)
+## 📺 Media & Intelligence
 
----
+  * 🎥 **YouTube**: [@profrodai](https://youtube.com/@profrodai) - Build proof, operational logs, and failure analysis.
+  * 📰 **Substack**: [OpenClaw Daily](https://substack.profrod.ai) - Daily intelligence for the technically brave.
+  * 🎨 **The Rod Protocols**: Visual post-mortems across LinkedIn and IG.
 
-## 📺 Content & Media
+-----
 
-* 🎥 YouTube: **@profrodai** - agent workflows, automations, prototypes
-* 🎙 The Chris Rod Max Show - spotlighting the next generation of AI founders
-* 📰 Newsletter: **Prof Rod AI**
-* 🎨 Comics & edutainment across IG/TikTok @profrodai
+## 🌍 The Registry
 
----
+  * **Professional Registry**: [rodrivera.com](https://rodrivera.com) (Academic & Institutional Inquiries)
+  * **The Laboratory**: [profrod.ai](https://profrod.ai) (Content & Comics)
+  * **The Discipline**: [sovereignagents.co](https://sovereignagents.co) (Community & Framework)
 
-## 🌍 Connect
+## 🤝 Connect
 
-* LinkedIn: [https://www.linkedin.com/in/profrodai/](https://www.linkedin.com/in/profrodai/)
-* Twitter / X: [https://x.com/profrodai](https://x.com/profrodai)
-* Instagram / TikTok: [https://instagram.com/profrodai](https://instagram.com/profrodai)
-* Discord: **Agent Engineering Community** → [https://info.rasa.com/community](https://info.rasa.com/community)
-
----
-
-### ✨ Motto
-
-> **“Agent Engineering is the new full-stack.”**
+  * **LinkedIn**: [linkedin.com/in/profrodai](https://www.linkedin.com/in/profrodai/)
+  * **Twitter / X**: [@profrodai](https://x.com/profrodai)
+  * **Telegram**: [https://t.me/profrodai](https://t.me/profrodai)
